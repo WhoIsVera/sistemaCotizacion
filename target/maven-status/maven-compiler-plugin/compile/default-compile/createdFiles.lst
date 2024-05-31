@@ -1,0 +1,13 @@
+com\sistemaCotizacion\Request\PlazoRequest.class
+com\sistemaCotizacion\SistemaCotizacionApplication.class
+com\sistemaCotizacion\Request\ProductoRequest.class
+com\sistemaCotizacion\Entity\Producto.class
+com\sistemaCotizacion\Entity\Plazo.class
+com\sistemaCotizacion\Logic\CotizacionLogic.class
+com\sistemaCotizacion\Controller\CotizacionController.class
+com\sistemaCotizacion\Repository\PlazoRepository.class
+com\sistemaCotizacion\Repository\ProductoRepository.class
+com\sistemaCotizacion\Controller\PlazoController.class
+com\sistemaCotizacion\Controller\ProductoController.class
+com\sistemaCotizacion\Logic\PlazoLogic.class
+com\sistemaCotizacion\Logic\ProductoLogic.class

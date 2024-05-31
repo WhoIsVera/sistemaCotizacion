@@ -1,0 +1,13 @@
+C:\Users\Eduardo Vera\Downloads\sistemaCotizacion\src\main\java\com\sistemaCotizacion\Controller\CotizacionController.java
+C:\Users\Eduardo Vera\Downloads\sistemaCotizacion\src\main\java\com\sistemaCotizacion\Controller\PlazoController.java
+C:\Users\Eduardo Vera\Downloads\sistemaCotizacion\src\main\java\com\sistemaCotizacion\Controller\ProductoController.java
+C:\Users\Eduardo Vera\Downloads\sistemaCotizacion\src\main\java\com\sistemaCotizacion\Entity\Plazo.java
+C:\Users\Eduardo Vera\Downloads\sistemaCotizacion\src\main\java\com\sistemaCotizacion\Entity\Producto.java
+C:\Users\Eduardo Vera\Downloads\sistemaCotizacion\src\main\java\com\sistemaCotizacion\Logic\CotizacionLogic.java
+C:\Users\Eduardo Vera\Downloads\sistemaCotizacion\src\main\java\com\sistemaCotizacion\Logic\PlazoLogic.java
+C:\Users\Eduardo Vera\Downloads\sistemaCotizacion\src\main\java\com\sistemaCotizacion\Logic\ProductoLogic.java
+C:\Users\Eduardo Vera\Downloads\sistemaCotizacion\src\main\java\com\sistemaCotizacion\Repository\PlazoRepository.java
+C:\Users\Eduardo Vera\Downloads\sistemaCotizacion\src\main\java\com\sistemaCotizacion\Repository\ProductoRepository.java
+C:\Users\Eduardo Vera\Downloads\sistemaCotizacion\src\main\java\com\sistemaCotizacion\Request\PlazoRequest.java
+C:\Users\Eduardo Vera\Downloads\sistemaCotizacion\src\main\java\com\sistemaCotizacion\Request\ProductoRequest.java
+C:\Users\Eduardo Vera\Downloads\sistemaCotizacion\src\main\java\com\sistemaCotizacion\SistemaCotizacionApplication.java
